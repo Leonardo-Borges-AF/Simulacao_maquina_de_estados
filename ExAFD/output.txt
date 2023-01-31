@@ -1,0 +1,4 @@
+R;aaaaaa
+A;bbbbbb
+A;ababab
+R;bababa
